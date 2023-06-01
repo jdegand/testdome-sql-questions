@@ -1,0 +1,1 @@
+SELECT userId, AVG(duration) FROM sessions GROUP BY userId HAVING COUNT(userId) > 1;

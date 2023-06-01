@@ -1,0 +1,1 @@
+SELECT COUNT(id) FROM students WHERE firstName = 'John';
