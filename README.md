@@ -1,6 +1,6 @@
 # Testdome SQL Questions
 
-My solution to public SQL questions from [Testdome](https://www.testdome.com/tests/sql-online-test/12).
+My solutions to the public SQL questions from [Testdome](https://www.testdome.com/tests/sql-online-test/12).
 
 ## Useful Resources
 
