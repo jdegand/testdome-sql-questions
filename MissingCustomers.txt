@@ -1,0 +1,3 @@
+INNER JOIN only returns values in both tables.
+
+FULL JOIN will return all values from both tables and add null to missing values required in either table.
