@@ -18,3 +18,4 @@ My solutions to the public SQL questions from [Testdome](https://www.testdome.co
 - [Learn SQL](https://learnsql.com/blog/sql-recursive-cte/) - sql recursive cte
 - [Stack Overflow](https://stackoverflow.com/questions/68491239/testdome-sql-test-on-procedure) - testdome sql test on procedure
 - [Stack Overflow](https://stackoverflow.com/questions/71279356/question-versions-using-cte-recursion-mysql) - question versions using cte recursion mysql
+- [ByteByteGo blog](https://blog.bytebytego.com/p/vertical-partitioning-vs-horizontal) - vertical vs horizontal partitioning
